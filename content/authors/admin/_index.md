@@ -68,12 +68,13 @@ user_groups:
 - Visitors
 
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I received an outstanding contribution award from Toyota Research North America in 2016. Currently, I am focusing on **graph machine learning** and its applications on spatial problems, circuit, molecule, etc.
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on network flow problems.
 
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations [[Openings]](/post/opening/). -->
 
 - **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
   - how super transmitters interact with each other in network flows such as social, traffic and disease spreading.
+- **`[Award]`** 10/2022: undergraduate research program funded by MS state ORED
 - **`[Award]`** 4/2022: Appreciate NSF's support for my research on flows on graphs! 
   - [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 - **`[Paper]`** 12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
@@ -82,7 +83,6 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 - [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
 - **`[Paper]`** 9/2021: One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
-- **`[Service]`** 8/2021: Invited to serve as reviewer at [AAAI 22'](https://aaai.org/Conferences/AAAI-22/).
 - **`[Tutorial]`** 5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
 - **`[Paper]`** 12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 - **`[Paper]`** 10/2020 One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
