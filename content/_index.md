@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Pinned Work
       filters:
         folders:
           - publication
