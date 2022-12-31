@@ -1,10 +1,15 @@
 ---
 # Display name
-name: Zhiqian Chen
+title: Zhiqian Chen
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Zhiqian
+last_name: Chen
+
+# Status emoji
+status:
+  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
