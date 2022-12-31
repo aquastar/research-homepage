@@ -86,7 +86,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
   - Graph Wavelet for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 - **`[Paper]`** 10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
   - Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
-- [Oct. 2021] One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
+- **`[Paper]`**  10/2021 One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
 - **`[Paper]`** 9/2021: One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
 - **`[Tutorial]`** 5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
 - **`[Paper]`** 12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
