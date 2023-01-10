@@ -1,0 +1,88 @@
+// Override this file to add your own SCSS styling.
+body {
+	font-size:1rem;
+	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+}
+
+h1{
+	font-size:2rem;
+}
+h3{
+	font-size:1.1rem;
+}
+.navbar {
+	font-size:1.1rem
+}
+
+
+.article-style .bio-text {
+	text-align: left;
+	max-width: none 
+}
+
+
+.article-container{
+	max-width: 1200px;
+}
+
+.home-section:first-of-type{
+	padding: 10px;
+}
+
+#profile .network-icon {
+	margin-top: 10px;
+}
+
+
+
+
+section#featured.home-section .col-lg-4{
+	flex: 0 0 60%;
+	max-width:60%;
+	margin-bottom: 1rem
+}
+section#featured.home-section .col-lg-8{
+	flex: 0 0 95%;
+	max-width: 95%;
+}
+
+section#featured.home-section .col-lg-8 .media{
+	margin-bottom: 0.8rem;
+}
+
+
+
+section#publications.home-section .col-lg-4{
+	flex: 0 0 80%;
+	max-width:80%;
+	margin-bottom: 1rem
+}
+section#publications.home-section .col-lg-8{
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+
+section#publications.home-section p{
+	display: inline
+}
+
+section#projects.home-section .center-text{
+	text-align: left
+}
+
+section#projects.home-section .projects-container{
+	margin-top: 0
+}
+
+
+.universal-wrapper{
+	width: 1200px
+}
+
+.pub-list-item p{
+	display: inline
+}
+
+.container-publications div{
+	margin: 0 0;
+}
