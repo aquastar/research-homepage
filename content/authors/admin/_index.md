@@ -30,7 +30,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 
 {{% callout note %}}
-Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
+Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to work with me should check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
 
 * **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
