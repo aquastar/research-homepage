@@ -28,11 +28,9 @@ email: zchen@cse.msstate.edu
 ---
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on network flow problems.
 
-<!-- Researchers/students sharing the same interests are welcome to contact me for collaborations \\[[Openings]](/post/opening/). -->
 
 {{% callout note %}}
-Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check [[openings]](/post/work-with-me/)
-{{% /callout %}}
+Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check [opennings]({{< relref "/post/work-with-me" >}}) {{% /callout %}}
 
 * **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
 
