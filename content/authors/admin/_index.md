@@ -31,9 +31,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 <!-- Researchers/students sharing the same interests are welcome to contact me for collaborations \[[Openings]](/post/opening/). -->
 
 {{% callout note %}}
-Collaboration is welcome, please feel free to contact me directly.
-
-Student would like to work with me, please check
+Collaboration is welcome, please feel free to contact me directly. Students would like to work with me, please check
 {{% /callout %}}
 
 
