@@ -9,12 +9,13 @@ main:
     weight: 10
   - name: Posts
     url: '/post'
-    weight: 20
+    weight: 50
   - name: Research
     url: '/post/research-interest'
+    weight: 30
   - name: Publications
     url: 'https://scholar.google.com/citations?user=NC3-O6UAAAAJ&hl=en'
-    weight: 30
+    weight: 40
   - name: MyRelated.Work
     url: 'https://myrelated.work'
     weight: 60
