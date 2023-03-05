@@ -36,6 +36,17 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
   - Spectral Method on Graphs
 ```
 
+```markmap
+- Research Interests
+  - Methodology
+    - Optimization Problem over Graphs
+    - Interaction between Network Flow and Structures
+    - Spectral Method on Graphs
+  - Application
+    - Physical Flow, e.g., Circuit Flow and Traffic Flow
+    - Virtual Flow, e.g., Social Message and Disease Spreading
+```
+
 
 {{% callout note %}}
 Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check [opennings]({{< relref "/post/work-with-me" >}}) {{% /callout %}}
