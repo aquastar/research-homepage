@@ -31,13 +31,6 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 ```markmap {height="200px"}
 - Research Interests
-  - Optimization Problem over Graphs
-  - Network Flow
-  - Spectral Method on Graphs
-```
-
-```markmap
-- Research Interests
   - Methodology
     - Optimization Problem over Graphs
     - Interaction between Network Flow and Structures
