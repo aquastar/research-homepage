@@ -73,12 +73,7 @@ user_groups:
 - Visitors
 
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on network flow problems.
-
-
-{{% callout note %}}
-Collaborations are welcome! See [[Openings]](/post/opening/).
-{{% /callout %}}
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on **network flow** problems.
 
 
 - **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
