@@ -29,6 +29,17 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on **network flow** problems.
 
 
+```markmap {height="200px"}
+- Research Interests
+  - Methodology
+    - Optimization Problem over Graphs
+    - Interaction between Network Flow and Structures
+    - Spectral Method on Graphs
+  - Application
+    - Physical Flow, e.g., Circuit Flow and Traffic Flow
+    - Virtual Flow, e.g., Social Message and Disease Spreading
+```
+
 {{% callout note %}}
 Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
