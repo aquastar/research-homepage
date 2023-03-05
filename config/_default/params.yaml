@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Zhiqian Chen, Assistant Professor, Network Science, Graph Machine Learning'
+    twitter: 'imczq'
   analytics:
-    google_analytics: 'UA-16166017-2'
+    google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Zhiqian Chen. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
