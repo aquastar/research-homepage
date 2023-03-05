@@ -28,12 +28,11 @@ email: zchen@cse.msstate.edu
 ---
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/networks, with a particular emphasis on network flow problems.
 
-<!-- Researchers/students sharing the same interests are welcome to contact me for collaborations \[[Openings]](/post/opening/). -->
+<!-- Researchers/students sharing the same interests are welcome to contact me for collaborations \\[[Openings]](/post/opening/). -->
 
 {{% callout note %}}
-Collaboration is welcome, please feel free to contact me directly. Students would like to work with me, please check
+Contacting me directly is appreciated if you want to collaborate at paper/proposal level. Students who want to collaborate with me should check \[[openings]](/post/work-with-me/)
 {{% /callout %}}
-
 
 * **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
 
@@ -54,7 +53,7 @@ Collaboration is welcome, please feel free to contact me directly. Students woul
 * **`[Paper]`** 12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 * **`[Paper]`** 10/2020 One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 * **`[Paper & Award]`** 9/2020 Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
-* **`[Paper]`** 3/2020 A survey for Graph Neural Networks (GNN) is online: [\[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
+* **`[Paper]`** 3/2020 A survey for Graph Neural Networks (GNN) is online: \[[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 * **`[Paper]`** 12/2019: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
 
-  * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles[\[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
+  * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles\[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
