@@ -35,9 +35,9 @@ Contacting me directly is appreciated if you want to collaborate at paper/propos
 
 * **`[Paper]`** 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23)
 
-  * how super transmitters interact with each other in network flows such as social, traffic and disease spreading.
+  * how seeds interact in higher-order 
 * **`[Award]`** 10/2022: undergraduate research program funded by MS state ORED
-* **`[Award]`** 4/2022: Appreciate NSF's support for my research on flows on graphs! 
+* **`[Award]`** 4/2022: Appreciate **NSF**'s support for my research on flows on graphs! 
 
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * **`[Paper]`** 12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
@@ -46,13 +46,13 @@ Contacting me directly is appreciated if you want to collaborate at paper/propos
 * **`[Paper]`** 10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), topics include:
 
   * Graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
-* **`[Paper]`**  10/2021 One work is accepted by [IEEE BigData 21'](https://bigdataieee.org/BigData2021/): a hierachical graph learning for traffic impact.
+
 * **`[Paper]`** 9/2021: One paper about mobility and COVID-19 spreading is accepted by [ASONAM 21'](https://asonam.cpsc.ucalgary.ca/2021/).
 * **`[Tutorial]`** 5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
 * **`[Paper]`** 12/2020: One paper on citation forecast is accepted by [AAAI 21'](https://aaai.org/Conferences/AAAI-21/#).
 * **`[Paper]`** 10/2020 One paper is accepted by [EMNLP 20'](https://2020.emnlp.org).
 * **`[Paper & Award]`** 9/2020 Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
-* **`[Paper]`** 3/2020 A survey for Graph Neural Networks (GNN) is online: \[[preprint]](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
+* **`[Paper]`** 3/2020 A survey for Graph Neural Networks (GNN) is online: [preprint](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 * **`[Paper]`** 12/2019: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
 
-  * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles\[[Top 50 Collection]](https://www.nature.com/collections/giacagiaca)
+  * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles [Top 50 Collection](https://www.nature.com/collections/giacagiaca)
