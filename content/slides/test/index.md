@@ -9,13 +9,18 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Slide 1est
-test
+
+## test 1
+
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
 
 ---
- 
-## Slide 2
-    
+
+## test 2
+
 ---
-    
-## Slide 3
+
+## test 3
