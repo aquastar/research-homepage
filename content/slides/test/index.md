@@ -3,7 +3,7 @@ title: test
 date: 2023-03-09T16:14:08.306Z
 draft: false
 slides:
-  theme: black
+  theme: serif
 image:
   filename: featured
   focal_point: Smart
@@ -11,6 +11,7 @@ image:
 ---
 ## Slide 1est
 test
+
 ---
  
 ## Slide 2
