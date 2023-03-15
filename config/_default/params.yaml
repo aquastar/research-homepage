@@ -18,10 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Zhiqian Chen, Assistant Professor, Network Science, Graph Machine Learning'
+    description: 'Zhiqian Chen, Assistant Professor, Network Science, Machine Learning'
     twitter: 'imczq'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-PRESZGQJN2'
+    google_tag_manager: 'GTM-PM4WRQF'
     baidu_tongji: ''
   verification:
     google: ''

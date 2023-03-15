@@ -10,6 +10,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: cv.pdf
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/aquastar  
 organizations:
   - name: Computer Sceience and Engineering, Mississippi State University
     url: cse.msstate.edu
@@ -19,7 +22,7 @@ user_groups:
   - Researchers
   - Visitors
 status:
-  icon: ☕️
+  icon: 👨🏻‍💻
 last_name: Chen
 title: Zhiqian Chen
 role: Assistant Professor
