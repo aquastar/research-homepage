@@ -25,11 +25,11 @@ publication_types: ["1"]
 publication:  Proceedings of the 28th International Conference on Advances in Geographic Information 
 publication_short: SIGSPATIAL
 
-abstract:
+abstract: Traffic prediction is a challenging task due to the time-varying nature of traffic patterns and the complex spatial dependency of road networks. Adding to the challenge, there are a number of errors introduced in traffic sensor reporting, including bias and noise. However, most of the previous works treat the sensor observations as exact measures ignoring the effect of unknown noise. To model the spatial and temporal dependencies, existing studies combine graph neural networks (GNNs) with other deep learning techniques but their equal weighting of different dependencies limits the models' ability to capture the real dynamics in the traffic network. To deal with the above issues, we propose a novel deep learning framework called Deep Kalman Filtering Network (DKFN) to forecast the network-wide traffic state by modeling the self and neighbor dependencies as two streams, and their predictions are fused under the statistical theory and optimized through the Kalman filtering network. First, the reliability of each stream is evaluated using variances. Then, the Kalman filter is leveraged to properly fuse noisy observations in terms of their reliability. Experimental results reflect the superiority of the proposed method over baseline models on two real-world traffic datasets in the speed prediction task.
 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Use Kalman filtering to handle uncertainty.
 
 tags:
 - clustering

@@ -22,6 +22,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: card
+      flip_alt_rows: false
+      view: Showcase
 
 ---
