@@ -1,5 +1,5 @@
 ---
-title: "Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks"
+title: "Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks"
 authors:
 - admin
 - Fanglan Chen
@@ -8,14 +8,12 @@ authors:
 - Kaiqun Fu
 - Liang Zhao
 - Feng Chen
-- Lingfei Wu
-- Charu Aggarwal
 - Chang-Tien Lu
-date: "2023-10-01T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-25T00:00:00Z"
+publishDate: "2020-02-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,11 +25,11 @@ publication_types: ["3"]
 publication:
 publication_short: Preprint
 
-abstract: Deep learning's performance has been extensively recognized recently. Graph neural networks (GNNs) are designed to deal with graph-structural data that classical deep learning does not easily manage. Since most GNNs were created using distinct theories, direct comparisons are impossible. Prior research has primarily concentrated on categorizing existing models, with little attention paid to their intrinsic connections. The purpose of this study is to establish a unified framework that integrates GNNs based on spectral graph and approximation theory. The framework incorporates a strong integration between spatial- and spectral-based GNNs while tightly associating approaches that exist within each respective domain.
+abstract: A perspective across spatial and spectral domain
 
 
 # Summary. An optional shortened abstract.
-summary: A perspective across spatial and spectral domain, when to use spatial or spectral method, and their pros/cons.
+summary:
 
 tags:
 - graph
