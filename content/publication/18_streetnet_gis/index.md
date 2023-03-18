@@ -5,7 +5,7 @@ authors:
 - admin
 - Chang-Tien Lu
 date: "2018-09-01T00:00:00Z"
-doi: "10.1145/3274895.3274975"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
