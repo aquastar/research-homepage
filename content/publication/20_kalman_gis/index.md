@@ -39,13 +39,13 @@ featured: true
 #- name:
 #  url:  
 url_pdf : "https://dl.acm.org/doi/10.1145/3397536.3422257"
-url_code: ''
+url_code: 'https://github.com/Fanglanc/DKFN/tree/master'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=X7E3bqn94F0'
+url_video: 'https://www.bilibili.com/video/BV1ea4y1L7Xo/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
