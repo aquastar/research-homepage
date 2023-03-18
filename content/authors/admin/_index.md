@@ -13,6 +13,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/aquastar  
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/i/lists/1250150327418081281  
+  - icon: square-twitter
+    icon_pack: fab
+    link: https://twitter.com/imczq
 organizations:
   - name: Computer Sceience and Engineering, Mississippi State University
     url: cse.msstate.edu
