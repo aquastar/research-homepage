@@ -43,7 +43,7 @@ Collaboration at paper/proposal level is highly welcomed. Students who want to w
 
 
 {{% callout note %}}
-See my recent investigation at [myrelated.work]({{< relref "https://myrelated.work" >}}). {{% /callout %}}
+See my recent investigation at [myrelated.work](https://myrelated.work). {{% /callout %}}
 
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Award]` 10/2022: undergraduate research program funded by MS state ORED
