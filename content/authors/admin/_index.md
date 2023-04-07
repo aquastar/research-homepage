@@ -35,10 +35,10 @@ role: Assistant Professor
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/network problems, with a particular emphasis on `network flow` problems, see \[my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/network problems, with a particular emphasis on `network flow` problems, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check \[opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
+Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Award]` 10/2022: undergraduate research program funded by MS state ORED
