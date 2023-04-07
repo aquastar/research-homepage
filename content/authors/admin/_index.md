@@ -38,6 +38,8 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/network problems, with a particular emphasis on `network flow` problems, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
+See my recent investigation at [myrelated.work]({{< relref "myrelated.work" >}}). {{% /callout %}}
+{{% callout note %}}
 Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
@@ -54,5 +56,4 @@ Collaboration at paper/proposal level is highly welcomed. Students who want to w
 * `[Paper & Award]` 9/2020: Papers about Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
 * `[Paper]` 3/2020 A survey for Graph Neural Networks (GNN) is online: [preprint](https://arxiv.org/abs/2002.11867). See more GNN papers [here](https://github.com/thunlp/GNNPapers)
 * `[Paper]` 12/2019: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
-
   * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles [Top 50 Collection](https://www.nature.com/collections/giacagiaca)
