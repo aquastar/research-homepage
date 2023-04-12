@@ -30,4 +30,4 @@ If you are doing a course-track MS degree and want to include me as a major prof
 
 **Course Override**
 
-If a course is full and you still wish to enroll, please submit your override requests at the following web address: https://www.cse.msstate.edu/capacity-override-request-form/
+If a course is full and you still desire to enroll, check with your major professor or department to see if your registration has been released. Then submit your override requests at the following web address: https://www.cse.msstate.edu/capacity-override-request-form/
