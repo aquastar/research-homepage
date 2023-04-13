@@ -12,7 +12,7 @@ image:
 
 Apply to the Department of Computer Science and Engineering if you wish to work with me. Send me an email, schedule a meeting, or visit my office if you are currently enrolled at Mississippi State. 
 
-**Research Opening for M.S. and Undergrad students**
+**Research Opportunity for M.S. and Undergrad students**
  
 If you are interested in working with me towards a research-track MS degree, a research intern, or for an independent study, please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis.
 
@@ -25,7 +25,7 @@ If you are doing a course-track MS degree and want to include me as a major prof
 - Invite the professors who previously taught you as instructors to the committee and select their courses to present as your main contents. 
 - One reasonable content distribution is around 10 slides for each course, for a total of 30 slides, plus around 3 slides before that as an introduction, and one slide at the end.
 - Request feedback on slides from all committee members 1-2 weeks prior to the exam
-- Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using doodle.com or when2meet.com.
+- Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using [Doodle](doodle.com) or [when2meet](when2meet.com).
 
 **Project-Track** M.S. exam: replace course content with your project above.
 
