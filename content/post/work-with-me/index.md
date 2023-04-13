@@ -29,7 +29,7 @@ If you are doing a course-track MS degree and want to include me as a major prof
 
 **Project-Track** M.S. exam: replace course content with your project above.
 
-
+---
 **Course Override**
 
 If a course is full and you still desire to enroll, check with your major professor or department to see if your registration has been released. Then submit your override requests at the following web address: https://www.cse.msstate.edu/capacity-override-request-form/
