@@ -27,6 +27,9 @@ If you are doing a course-track MS degree and want to include me as a major prof
 - The exam typically lasts one hour, with 30-40 minutes for presentation and the remaining 20-30 minutes for Q&A. 
 - Invite the professors who previously taught you as instructors to the committee and select their courses to present as your main contents. 
 - One reasonable content distribution is around 10 slides for each course, for a total of 30 slides, plus around 3 slides before that as an introduction, and one slide at the end.
+- Request feedback on slides from all committee members 1-2 weeks prior to the exam
+- Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using doodle.com or when2meet.com.
+
 
 **Course Override**
 
