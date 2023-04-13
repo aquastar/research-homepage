@@ -18,7 +18,7 @@ If you are interested in working with me towards a research-track MS degree, a r
 
 
 ---
-**Course-Track or Project-Track M.S.**
+**Course-Track M.S.**
 
 If you are doing a course-track MS degree and want to include me as a major professor, follow the general suggestion on the slides/presentation. 
 - The exam typically lasts one hour, with 30-40 minutes for presentation and the remaining 20-30 minutes for Q&A. 
@@ -26,6 +26,8 @@ If you are doing a course-track MS degree and want to include me as a major prof
 - One reasonable content distribution is around 10 slides for each course, for a total of 30 slides, plus around 3 slides before that as an introduction, and one slide at the end.
 - Request feedback on slides from all committee members 1-2 weeks prior to the exam
 - Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using doodle.com or when2meet.com.
+
+**Project-Track** M.S. exam: replace course content with your project above.
 
 
 **Course Override**
