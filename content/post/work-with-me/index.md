@@ -12,13 +12,9 @@ image:
 
 Apply to the Department of Computer Science and Engineering if you wish to work with me. Send me an email, schedule a meeting, or visit my office if you are currently enrolled at Mississippi State. 
 
-**Research-track MS, or Independent Study UG** 
+**Research-track MS, Independent Study, Research Internship/Volunteer (MS/UG level)** 
 
-Please send me an email containing your CV and a brief introduction if you are interested in an independent study or thesis-track. 
-
-**Research Internship/Volunteer (MS/UG level)** 
-
-Please send me your CV and a brief introduction. Available on a case-by-case basis.
+Please send me an email containing your CV and a brief introduction if you are interested in my research
 
 ---
 **Course-Track or Project-Track M.S.**
