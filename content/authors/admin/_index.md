@@ -35,10 +35,10 @@ role: Assistant Professor
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/network problems, with a particular emphasis on `Graph Flow` problems, see [my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
+Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check \[opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
 {{% callout note %}}
 See my recent investigation at [myrelated.work](https://myrelated.work),  [ML conference due collection](https://czq.notion.site/e1cc85efe6c74a6aaaa66dee84e0b7da?v=9f4c0f90360d433087ef89b628bf336d) {{% /callout %}}
