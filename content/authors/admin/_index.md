@@ -1,4 +1,6 @@
 ---
+title: Zhiqian Chen
+role: Assistant Professor
 bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science
   and Engineering at Mississippi State University, focusing on graph machine
   learning.
@@ -30,26 +32,24 @@ user_groups:
 status:
   icon: 👨🏻‍💻
 last_name: Chen
-title: Zhiqian Chen
-role: Assistant Professor
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check \[opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
+Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
 
 {{% callout note %}}
 See my recent investigation at [myrelated.work](https://myrelated.work),  [ML conference due collection](https://czq.notion.site/e1cc85efe6c74a6aaaa66dee84e0b7da?v=9f4c0f90360d433087ef89b628bf336d) {{% /callout %}}
 
+* `[Lib]` 8/2023: XFlow is released which targets to model generalized graph flows
+* `[Fund]` 8/2022: USDA-funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
-* `[Award]` 10/2022: undergraduate research program funded by MS state ORED
-* `[Award]` 4/2022: Appreciate **NSF**'s support for my research on flows on graphs! 
-
+* `[Fund]` 10/2022: undergraduate research program funded by MS state ORED
+* `[Fund]` 4/2022: Appreciate **NSF**'s support for my research on flows on graphs! 
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
-
   * Graph Wavelet for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 * `[Paper]` 10/2021: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), including graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 * `[Tutorial]` 5/2021: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
