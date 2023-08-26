@@ -44,8 +44,8 @@ Collaboration at paper/proposal level is highly welcomed. Students who want to w
 See my recent investigation at [myrelated.work](https://myrelated.work),  [ML conference due collection](https://czq.notion.site/e1cc85efe6c74a6aaaa66dee84e0b7da?v=9f4c0f90360d433087ef89b628bf336d) {{% /callout %}}
 
 * `[Tool]` 8/2023: XFlow is released which targets to model generalized graph flows  [XFlow](https://xflow.network/)
-* `[Fund]` 8/2022: USDA-funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
-* `[HIRING]` 6/2022:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
+* `[Fund]` 8/2023: USDA-funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
+* `[HIRING]` 6/2023:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Fund]` 10/2022: undergraduate research program funded by MS state ORED
 * `[Fund]` 4/2022: Appreciate **NSF**'s support for my research on flows on graphs! 
