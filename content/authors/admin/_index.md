@@ -46,7 +46,7 @@ See my recent investigation at [myrelated.work](https://myrelated.work).
 
 
 * `[Tool]` 8/2023: XFlow is released which targets to model generalized graph flows  [XFlow](https://xflow.network/)
-* `[Fund]` 8/2023: USDA-funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
+* `[Fund]` 8/2023: USDA-ARS funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
 * `[HIRING]` 6/2023:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Fund]` 10/2022: undergraduate research program funded by MS state ORED
