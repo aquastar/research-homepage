@@ -1,4 +1,6 @@
 ---
+title: Zhiqian Chen
+role: Assistant Professor
 bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science
   and Engineering at Mississippi State University, focusing on graph machine
   learning.
@@ -30,22 +32,25 @@ user_groups:
 status:
   icon: 👨🏻‍💻
 last_name: Chen
-title: Zhiqian Chen
-role: Assistant Professor
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I have been working as a research assistant at Virginia Tech. I am now working on machine learning over graphs/network problems, with a particular emphasis on `Graph Flow` problems, see [my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}). {{% /callout %}}
+Collaboration at paper/proposal level is highly welcomed. Check my [office hours](https://outlook.office.com/bookwithme/user/f4db2bc88b7d4beaab04f13e2297cb73%40msstate.edu?anonymous&isanonymous=true) for meeting.
+Students who want to work with me may check 
+[opennings]({{< relref "/post/work-with-me" >}}).
+See my recent investigation at [myrelated.work](https://myrelated.work).
+{{% /callout %}} 
 
-{{% callout note %}}
-See my recent investigation at [myrelated.work](https://myrelated.work),  [ML conference due collection](https://czq.notion.site/e1cc85efe6c74a6aaaa66dee84e0b7da?v=9f4c0f90360d433087ef89b628bf336d) {{% /callout %}}
 
+* `[Tool]` 8/2023: XFlow is released which targets to model generalized graph flows  [XFlow](https://xflow.network/)
+* `[Fund]` 8/2023: USDA-ARS funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
+* `[HIRING]` 6/2023:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
 * `[Paper]` 12/2022: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
-* `[Award]` 10/2022: undergraduate research program funded by MS state ORED
-* `[Award]` 4/2022: Appreciate **NSF**'s support for my research on flows on graphs! 
+* `[Fund]` 10/2022: undergraduate research program funded by MS state ORED
+* `[Fund]` 4/2022: Appreciate **NSF**'s support for my research on graph flow!
 
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/2021: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
