@@ -1,6 +1,4 @@
 ---
-title: Zhiqian Chen
-role: Assistant Professor
 bio: Zhiqian Chen is an Assistant Professor at Department of Computer Science
   and Engineering at Mississippi State University, focusing on graph machine
   learning.
@@ -8,7 +6,7 @@ interests: null
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=lwfx98UAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ
   - icon: cv
     icon_pack: ai
     link: cv.pdf
@@ -32,6 +30,8 @@ user_groups:
 status:
   icon: 👨🏻‍💻
 last_name: Chen
+title: Zhiqian Chen
+role: Assistant Professor
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
