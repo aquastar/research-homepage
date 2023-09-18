@@ -8,13 +8,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**PHD** 
+**Ph.D.**
 
 Apply to the Department of Computer Science and Engineering if you wish to work with me. Send me an email, schedule a meeting, or visit my office if you are currently enrolled at Mississippi State. 
 
-**Research Opportunity for M.S. and Undergrad students**
+**Research Opportunity for M.S., Undergrad, and High School Students**  
 
-If you are interested in working with me towards a research-track MS degree, a research intern, or for an independent study, please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis.
+If you are interested in working with me towards a research-track MS degree, a research intern, an independent study, AP research class (high school), please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis. 
 
 - - -
 
