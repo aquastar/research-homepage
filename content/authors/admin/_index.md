@@ -44,7 +44,7 @@ Students who want to work with me may check
 See my recent investigation at [myrelated.work](https://myrelated.work).
 {{% /callout %}} 
 
-* `[Paper]` 9/23:  Theoretical Framework for Unifying GNN to appear in ACM Computing Survey, [Preprint](https://arxiv.org/abs/2107.10234)
+* `[Paper]` 9/23:  Theoretical Framework for Unifying GNN to appear in [ACM Computing Survey](https://dl.acm.org/journal/csur), [Preprint](https://arxiv.org/abs/2107.10234)
 * `[Tool]` 8/23: XFlow is released which targets to model generalized graph flows  [XFlow](https://xflow.network/)
 * `[Fund]` 8/23: USDA-ARS funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
 * `[HIRING]` 6/23:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
