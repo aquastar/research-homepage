@@ -38,7 +38,7 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Check my [office hours](https://outlook.office.com/bookwithme/user/f4db2bc88b7d4beaab04f13e2297cb73@msstate.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink) for meeting.
+Collaboration at paper/proposal level is highly welcomed. Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.
 Students who want to work with me may check 
 [opennings]({{< relref "/post/work-with-me" >}}).
 See my recent investigation at [myrelated.work](https://myrelated.work).
