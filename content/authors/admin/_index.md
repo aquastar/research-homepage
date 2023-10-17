@@ -40,14 +40,13 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 {{% callout note %}}
 Collaboration at paper/proposal level is highly welcomed. Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.
 Students who want to work with me may check 
-\[opennings]({{< relref "/post/work-with-me" >}}).
+[opennings]({{< relref "/post/work-with-me" >}}).
 See my recent investigation at [myrelated.work](https://myrelated.work).
 {{% /callout %}} 
 
-* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by ACM Computing Survey i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816)
-* `[Tool]` 8/23: XFlow is released which targets to model generalized graph flows  [XFlow](https://xflow.network/)
+* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816)
+* `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: USDA-ARS funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
-* `[HIRING]` 6/23:  One undergraduate is needed for research on sleep pattern, ADHD, brain network and psychological signals
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Fund]` 10/22: undergraduate research program funded by MS state ORED
 * `[Fund]` 4/22: Appreciate **NSF**'s support for my research on graph flow!
