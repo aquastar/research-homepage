@@ -46,10 +46,10 @@ See my recent investigation at [myrelated.work](https://myrelated.work).
 
 * `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816)
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
-* `[Fund]` 8/23: USDA-ARS funded project focused on computational biology, where we will delve into the intricacies of connectivity within genome sequences. Special thanks to the support from CVM
+* `[Fund]` 8/23: USDA-ARS funded project focused on computational biology with  focus on genome sequences. Special thanks to the support from CVM
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Fund]` 10/22: undergraduate research program funded by MS state ORED
-*﻿ `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code example, [Springer Nature](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557?crid=24DO0RYAEPM3H&keywords=zhiqian+chen&qid=1697648825&sprefix=zhiqian+chen,aps,126&sr=8-1&ufe=app_do:amzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)
+* `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code example, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Appreciate **NSF**'s support for my research on graph flow!
 
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
