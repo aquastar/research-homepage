@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/imczq
 organizations:
-  - name: Computer Sceience and Engineering, Mississippi State University
+  - name: Computer Science and Engineering, Mississippi State University
     url: cse.msstate.edu
 education: null
 superuser: true
