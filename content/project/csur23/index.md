@@ -1,8 +1,6 @@
 ---
 title: Bridging the Gap between Spatial and Spectral Domains - A Unified Framework for Graph Neural Networks
-summary: Deep learning's performance has been extensively recognized recently. 
-Graph neural networks (GNNs) are designed to deal with graph-structural data that classical deep learning does not easily manage.
-Since most GNNs were created using distinct theories, direct comparisons are impossible. Prior research has primarily concentrated on categorizing existing models, with little attention paid to their intrinsic connections. The purpose of this study is to establish a unified framework that integrates GNNs based on spectral graph and approximation theory. The framework incorporates a strong integration between spatial- and spectral-based GNNs while tightly associating approaches that exist within each respective domain.
+summary: Deep learning's performance has been extensively recognized recently. Graph neural networks (GNNs) are designed to deal with graph-structural data that classical deep learning does not easily manage.Since most GNNs were created using distinct theories, direct comparisons are impossible. Prior research has primarily concentrated on categorizing existing models, with little attention paid to their intrinsic connections. The purpose of this study is to establish a unified framework that integrates GNNs based on spectral graph and approximation theory. The framework incorporates a strong integration between spatial- and spectral-based GNNs while tightly associating approaches that exist within each respective domain.
 tags:
   - Deep Learning
 date: '2023-12-07T00:00:00Z'
