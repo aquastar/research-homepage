@@ -44,7 +44,7 @@ Students who want to work with me may check
 See my recent investigation at [myrelated.work](https://myrelated.work).
 {{% /callout %}} 
 
-* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "/static/csur.pdf" >}}) 
+* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "csur.pdf" >}}) 
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: USDA-ARS funded project on genomics. Special thanks to the support from CVM!
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
