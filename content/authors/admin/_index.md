@@ -38,13 +38,13 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on `machine learning`, with a particular emphasis on graph/network problems such as `graph flow`, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Collaboration at paper/proposal level is highly welcomed. Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.
+Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.  
 Students who want to work with me may check 
 [opennings]({{< relref "/post/work-with-me" >}}).
 See my recent investigation at [myrelated.work](https://myrelated.work).
 {{% /callout %}} 
 
-* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "csur.pdf" >}}) 
+* `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "./csur.pdf" >}}) 
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: USDA-ARS funded project on genomics. Special thanks to the support from CVM!
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
