@@ -41,6 +41,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.  Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}).
 {{% /callout %}} 
 
+* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed Bayesian Optimization for Influence Maximization, a novel schema beyond conventional simulation and proxy methodologies, and made it work on (paper 1) Multi-Source Localization and (paper 2) Multiplex Propagation. 
 * `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "/project/csur23" >}}).
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: USDA-ARS funded project on genomics. Special thanks to the support from CVM!
@@ -48,10 +49,8 @@ Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.  Students w
 * `[Fund]` 10/22: undergraduate research program funded by MS state ORED
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Appreciate **NSF**'s support for my research on graph flow!
-
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/21: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
-
   * Graph Wavelet for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 * `[Paper]` 10/21: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), including graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 * `[Tutorial]` 5/21: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
