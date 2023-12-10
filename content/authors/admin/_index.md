@@ -41,7 +41,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Check my [office hours](https://zhiqian.youcanbook.me/) for meeting.  Students who want to work with me may check [opennings]({{< relref "/post/work-with-me" >}}).
 {{% /callout %}} 
 
-* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed Bayesian Optimization for Influence Maximization, a novel schema beyond conventional simulation and proxy methodologies, and made it work on (paper 1) Multi-Source Localization and (paper 2) Multiplex Propagation. 
+* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed Graph Bayesian Optimization for Information Propagation.
 * `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "/project/csur23" >}}).
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: USDA-ARS funded project on genomics. Special thanks to the support from CVM!
