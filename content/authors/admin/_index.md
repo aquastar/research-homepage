@@ -41,7 +41,8 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students who want to work with me may check [openings]({{< relref "/post/work-with-me" >}}).
 {{% /callout %}} 
 
-* `[Paper]` 12/23: Launch a working group on Graph AI supported by Bagley College of Engineering.
+* `[Paper]` 12/23: Received a Global Development Seed Grant Award from International Institute at MS State. 
+* `[Paper]` 12/23: Launch a working group on Graph AI supported by Bagley College of Engineering with financial support.
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> for Information Propagation.
 * `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "/project/csur23" >}}).
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
