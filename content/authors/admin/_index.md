@@ -42,9 +42,9 @@ Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students wh
 {{% /callout %}} 
 
 * `[GPT]` 12/23: Search `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works), and the 1st result is [mine](https://www.gptshunter.com/gpt-store/MTMyYzA4MTYyZjBiMGIwMDA4) ;)   
-* `[Paper]` 12/23: Received a Global Development Seed Grant Award from International Institute at MS State. 
-* `[Paper]` 12/23: Launch a working group on Graph AI supported by Bagley College of Engineering with financial support.
-* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> for Information Propagation.
+* `[Paper]` 12/23: Received a Global Development Seed Grant Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.
+* `[Paper]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
+* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
 * `[Paper]` 10/23:  Theoretical Framework for Unifying GNN accepted by **ACM Computing Survey** i﻿s online, see [paper](https://dl.acm.org/doi/10.1145/3627816), and [slides]({{< relref "/project/csur23" >}}).
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: <u>USDA-ARS</u> funded project on genomics. Special thanks to the support from CVM@MSState
