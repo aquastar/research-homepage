@@ -41,7 +41,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students who want to work with me may check [openings]({{< relref "/post/work-with-me" >}}).
 {{% /callout %}} 
 
-* `[GPT]` 12/23: Search `Research Review` at www.gptshunter.com and gpts.works, and the 1st result is mine ;) 
+* `[GPT]` 12/23: Search `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works), and the 1st result is [mine](https://www.gptshunter.com/gpt-store/MTMyYzA4MTYyZjBiMGIwMDA4) ;)   
 * `[Paper]` 12/23: Received a Global Development Seed Grant Award from International Institute at MS State. 
 * `[Paper]` 12/23: Launch a working group on Graph AI supported by Bagley College of Engineering with financial support.
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> for Information Propagation.
