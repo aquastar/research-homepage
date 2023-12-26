@@ -41,7 +41,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students who want to work with me may check [openings]({{< relref "/post/work-with-me" >}}).
 {{% /callout %}} 
 
-* `[Tool]` 12/23: Search `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works), and the 1st result is [mine](https://www.gptshunter.com/gpt-store/MTMyYzA4MTYyZjBiMGIwMDA4). Check out my demo on the energy view using the Ising model in graph dynamics [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt)
+*﻿ `[Tool]` 12/23: Our [Research Reviewer](https://www.gptshunter.com/gpt-store/MTMyYzA4MTYyZjBiMGIwMDA4) (used in 513 chats) is listed as the 1st returned result of searching `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works). Also check our [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) (117 chatss), which demonstrates energy evolution of disease spreading.
 * `[Fund]` 12/23: Received a Global Development Seed Grant Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Fund]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
