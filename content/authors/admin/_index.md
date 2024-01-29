@@ -38,9 +38,10 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students who want to work with me may check [openings]({{< relref "/post/work-with-me" >}}).
+Check my [office hours](https://zhiqian.youcanbook.me/) for meeting. Students who want to work with me may check [openings]({{< relref "/post/work-with-me" >}}). Now student worker and undergraduate are needed for projects.
 {{% /callout %}} 
 
+* `[Fund]` 1/24: Received NSF REU to fund undergraduate students for graph flow research.
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
 * `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by [ACM Computing Survey](https://dl.acm.org/journal/csur), see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/csur23" >}}). 
 * `[Tool]` 12/23: Our custom GPT [Research Reviewer](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer) (used in 600+ chats) is listed as 1st returned result of `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works). Check our [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) (117 chats), which demonstrates the energy evolution of disease spreading.
