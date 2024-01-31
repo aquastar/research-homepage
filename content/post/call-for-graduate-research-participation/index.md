@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-We are excited to offer 2-3 graduate students the opportunity to participate in cutting-edge research in the field of graph machine learning. This project aims to advance our understanding of graph dynamics and develop innovative solutions to complex real-world problems.
+We are excited to offer 2 graduate or undergraduate students the opportunity to participate in cutting-edge research in the field of graph machine learning. This project aims to advance our understanding of graph dynamics and develop innovative solutions to complex real-world problems. 
 
 ## **Eligibility:**
 
