@@ -39,7 +39,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 
 {{% callout note %}}
 Two openings for undergraduate and graduate student:
-[1]({{< relref "/post/call-for-undergraduate-research-participation/" >}})
+{{< relref "/post/call-for-undergraduate-research-participation/" >}}
 {{% /callout %}} 
 
 * `[Fund]` 1/24: Received NSF REU to fund undergraduate students for graph flow research.
