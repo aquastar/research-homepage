@@ -1,5 +1,5 @@
 ---
-title: Call for Graduate Research Participation
+title: Call for Graduate/Undergrad Research Participation
 date: 2024-01-31T20:29:47.621Z
 draft: false
 featured: false
