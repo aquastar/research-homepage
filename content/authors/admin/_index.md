@@ -38,8 +38,8 @@ email: zchen@cse.msstate.edu
 I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Two openings for undergraduate and graduate student:
-{{< relref "/post/call-for-undergraduate-research-participation/" >}}
+Two openings for undergraduate and graduate student 
+[my research interest]({{< relref "/post/research-interest" >}})
 {{% /callout %}} 
 
 * `[Fund]` 1/24: Received NSF REU to fund undergraduate students for graph flow research.
