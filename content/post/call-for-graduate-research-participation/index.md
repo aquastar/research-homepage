@@ -17,7 +17,7 @@ We are excited to offer 2 graduate or undergraduate students the opportunity to 
 
 ## **Payment:**
 
-- **$10 per hour.**
+- hour rate will be discussed
 - Commitment of 10 hours per week during calendar year of 2024.
 
 ## **Project Task Description:**
