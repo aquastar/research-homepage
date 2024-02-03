@@ -18,7 +18,7 @@ We are excited to offer 2-3 undergraduate students the opportunity to participat
 
 ## **Payment:**
 
-- **$17.50 per hour.**
+- hour rate will be discussed
 - Commitment of 10 to 20 hours per week, from now until April 30
 
 ## **Project Task Description:**
