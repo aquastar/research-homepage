@@ -42,6 +42,7 @@ Two openings for undergraduate and graduate students
 [Opening 1]({{< relref "/post/call-for-undergraduate-research-participation" >}}),[Opening 2]({{< relref "/post/call-for-graduate-research-participation" >}})
 {{% /callout %}} 
 
+* `[Tutorial]` 2/24: our tutorial on Spectral and Spatial Graph Neural Network has been accepted for presentation at [CVPR 2024](https://cvpr.thecvf.com/). Look forward to our gathering in Seattle this summer!
 * `[Fund]` 1/24: Received NSF REU to fund undergraduate students for graph flow research.
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
 * `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by [ACM Computing Survey](https://dl.acm.org/journal/csur), see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/csur23" >}}). 
