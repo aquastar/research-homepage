@@ -35,19 +35,20 @@ last_name: Chen
 first_name: Zhiqian
 email: zchen@cse.msstate.edu
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see \[my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
-Two openings for undergraduate students 
-[Opening]({{< relref "/post/call-for-undergraduate-research-participation" >}})
+Call for undergraduate students 
+\[Opening]({{< relref "/post/call-for-undergraduate-research-participation" >}})
 {{% /callout %}} 
 
 * `[Tutorial]` 2/24: our tutorial on `Spectral and Spatial Graph Neural Network` has been accepted at [CVPR 24'](https://cvpr.thecvf.com/). Look forward to our gathering in Seattle this summer!
 * `[Fund]` 1/24: Received NSF REU to fund undergraduate students research.
 * `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
-* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by [ACM Computing Survey](https://dl.acm.org/journal/csur), see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/csur23" >}}). 
+* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by [ACM Computing Survey](https://dl.acm.org/journal/csur), see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/csur23" >}}). 
 * `[Tool]` 12/23: Our custom GPT [Research Reviewer](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer) (used in 600+ chats) is listed as 1st returned result of `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works). Check our [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) (117 chats), which demonstrates the energy evolution of disease spreading.
-* `[Fund]` 12/23: Received a Global Development Seed Grant Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.  
+* `[Fund]` 12/23: Received a Global Development Seed Grant
+  Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Fund]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: <u>USDA-ARS</u> funded project on genomics. Special thanks to the support from CVM@MSState
@@ -55,8 +56,10 @@ Two openings for undergraduate students
 * `[Fund]` 10/22: undergraduate research program funded by MS state ORED
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Appreciate **NSF**'s support for my research on graph flow!
+
   * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/21: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
+
   * <u>Graph Wavelet</u> for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 * `[Paper]` 10/21: Recent works have been selected by [AAAI 22'](https://aaai.org/Conferences/AAAI-22/), including graph wavelet, influence maximization, graph learning for hieroglyph, graph dynamics mapping
 * `[Tutorial]` 5/21: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
